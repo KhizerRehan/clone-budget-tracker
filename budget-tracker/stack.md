@@ -19,3 +19,7 @@
 ## Links
 - Github: https://github.com/Kliton/budget_tracker
 - Youtube: https://www.youtube.com/watch?v=nANLXwxZxks
+
+## Testing Users:
+U: khizerrehands+10@gmail.com
+P: Test!!123
